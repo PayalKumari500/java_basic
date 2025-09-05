@@ -5,7 +5,7 @@ public class arthimeticprogession{
         System.out.println("enter a integer :");
         int n = sc.nextInt();
         for(int i=1;i<=2*n-1;i+=2){
-            System.out.println(i+" ");
+            System.out.println(i);
         }
 
 
